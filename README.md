@@ -8,6 +8,6 @@ I am:
 
 Current project:
 
-Ripple: Python
-- A pixel animation generator using rippling of color drops across the canvas
+Ripple:
+- A sandbox of rippling of color drops across the canvas
 
