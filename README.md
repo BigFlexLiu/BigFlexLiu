@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am:
-- Felix
-- A human, not a goose
-- A third year computer science student at The University of Waterloo.
-- An avid reader, sometimes
+4th year CS student at University of Waterloo
 
-Ongoing project:
-- Connect five: A 2D puzzle game
+Climbed Hornelen and camped at the peak for a night
+Likes philosophy, psychology, and noodles
+Can play music, sing, dance, and draw
+Has never lost a chess game to Magnus Carlson
+Is the friend of the four holy beasts
